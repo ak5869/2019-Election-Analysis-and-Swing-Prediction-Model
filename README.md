@@ -34,8 +34,8 @@ demographic and voter behavior shifts.
 **PROBLEM STATEMENT**
 
 <br> Elections have a crucial role in the functioning of a modern democracy. With a barrage of 
-stakeholders at play, it is in the interest of many to have advance knowledge of political 
-results. It also helps political parties strategize better and adopt to the public favorability.  
+stakeholders at play, it is in the interest of many to have advanced knowledge of political 
+results. It also helps political parties strategize better and adapt to public favorability.  
 India's 2019 general election witnessed over 600 million voters casting ballots for more 
 than 8,500 candidates competing across 543 constituencies, making it one of the largest 
 democratic events in history. This immense scale and diversity provide a rich dataset to 
